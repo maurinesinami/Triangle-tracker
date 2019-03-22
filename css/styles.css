@@ -1,17 +1,20 @@
 h1{
-  color: blue;text-align: center;font-size: 100px;
+  color: blue;
+  text-align: center;
+  font-size: 100px;
+  
 }
 p{font-size: 20px;
 color: white;
 }
 h2{
-  color: black;
+  color:blue;
   font-size: 80px;
   font-style: italic;
 
 }
 h3{
-color: black;
+color:blue;
 font-size: 50px;
 }
 ul{
@@ -19,5 +22,5 @@ ul{
 }
 body{
   background-attachment: fixed;
-  
+
 }
