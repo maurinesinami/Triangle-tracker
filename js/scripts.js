@@ -1,3 +1,4 @@
+function triangleTracker(){
 var sidea =parseFloat(prompt("Enter first side"));
 var sideb =parseFloat(prompt("Enter second side"));
 var sidec =parseFloat(prompt("Enter third side"));
@@ -17,4 +18,5 @@ alert("scalene")
 }
 else{
 alert("not a definate triangle")
+}
 }
