@@ -10,13 +10,13 @@ if(sidea === sideb && sideb === sidec && sidec === sidea
 alert("Equilateral");
 }
 else if(sidea === sideb && sideb !== sidec || sideb === sidec && sidec !== sidea|| sidec === sidea && sidea !== sideb){
-alert("isosceles")
+alert("Isosceles")
 }
 else if(sidea !== sideb &&sideb !== sidec && sidec !== sidea && sidea+sideb>sidec && sideb + sidec >sidea && sidea + sidec > sideb
 ){
-alert("scalene")
+alert("Scalene")
 }
 else{
-alert("not a definate triangle")
+alert("Not a definate triangle")
 }
 }
