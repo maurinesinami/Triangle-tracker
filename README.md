@@ -17,7 +17,7 @@ Maurine sinami
 
 ## 1.Equilateral triangle 
 
-.It has all sides equal
+It has all sides equal
 For example:side A =2,side B =2, side C = 2.
 The output will be an 'Equilateral triangle'.
 

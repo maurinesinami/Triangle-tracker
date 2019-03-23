@@ -12,7 +12,7 @@ alert("Equilateral");
 else if(sidea === sideb && sideb !== sidec || sideb === sidec && sidec !== sidea|| sidec === sidea && sidea !== sideb){
 alert("isosceles")
 }
-else if(sidea !== sideb &&sideb !== sidec && sidec !== sidea
+else if(sidea !== sideb &&sideb !== sidec && sidec !== sidea && sidea+sideb>sidec && sideb + sidec >sidea && sidea + sidec > sideb
 ){
 alert("scalene")
 }
